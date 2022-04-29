@@ -40,4 +40,3 @@ else
     end
     value = temp1 * sumnew;
 end
-

@@ -16,4 +16,3 @@ range_4 = 10 .^ (range_4_db / 10);
 
 range = range_4 .^ (1/4);
 end
-
